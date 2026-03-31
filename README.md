@@ -60,7 +60,7 @@ Le morpion est un jeu simple permettant de tester différents modèles de classi
 
 ---
 ## Lien vers la Vidéo de Présentation
-
+https://www.youtube.com/watch?v=jfyPEV3DTrI
 ---
 ## Analyse des modèles
 

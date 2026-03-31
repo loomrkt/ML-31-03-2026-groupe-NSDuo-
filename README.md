@@ -29,10 +29,10 @@ Le morpion est un jeu simple permettant de tester différents modèles de classi
 ---
 ## Structure du Repository
 
-└── ressources
-    ├── dataset.csv
-    ├── model_draw.pkl
-    ├── model_xwins.pkl
+├── ressources/
+│ ├── dataset.csv
+│ ├── model_draw.pkl
+│ ├── model_xwins.pkl
 ├── Etape1_a_Etape3.ipynb
 ├── game.py
 ├── generator.py
